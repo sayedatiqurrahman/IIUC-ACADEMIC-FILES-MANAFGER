@@ -3,7 +3,7 @@
 Academic file storage for the **QSIS-ARMS** platform — International Islamic University Chittagong (IIUC).
 
 ## Browse Files
-Files are viewable at **[iiuc-arms.eu.cc](https://iiuc-arms.eu.cc)**
+Files are viewable at **[arms.iiuc.net](https://arms.iiuc.net)**
 
 ## Folder Structure
 
